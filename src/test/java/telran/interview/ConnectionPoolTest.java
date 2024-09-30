@@ -2,7 +2,7 @@ package telran.interview;
 
 import static org.junit.jupiter.api.Assertions.*;
 
-import java.util.Arrays;
+
 import java.util.NoSuchElementException;
 
 import org.junit.jupiter.api.BeforeEach;
